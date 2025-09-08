@@ -2,7 +2,6 @@
 // find the minimum number in an array
 
 const findMin = (arr)=>{
-    console.log(...arr)
     return Math.min(...arr);
 }
 
